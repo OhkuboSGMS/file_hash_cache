@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "file-hash-cache"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["OhkuboSGMS <sinikake.gokiburi@gmail.com>"]
 readme = "README.md"
